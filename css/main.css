@@ -61,7 +61,7 @@ html {
 @media print {
 
   .banner {
-  background-color: #fff;
+    background-color: #fff;
   }
 
   .book-title,
@@ -78,7 +78,7 @@ html {
 
   .inset-img {
     display: none;
-    border-color: #fff;
+    border-color: #000;
   }
 
 }
