@@ -60,20 +60,25 @@ html {
 
 @media print {
 
-    .banner {
-    background-color: #fff;
-    }
+  .banner {
+  background-color: #fff;
+  }
 
-    .book-title,
-    .book-author,
-    .chapter-number,
-    .chapter-title,
-    .color-change {
-      color: #000;
-    }
+  .book-title,
+  .book-author,
+  .chapter-number,
+  .chapter-title,
+  .color-change {
+    color: #000;
+  }
 
-    .chapter-ends {
-      border: none;
-    }
+  .chapter-ends {
+    border: none;
+  }
+
+  .inset-img {
+    display: none;
+    border-color: #fff;
+  }
 
 }
